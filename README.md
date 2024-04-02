@@ -9,9 +9,9 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 ## Repositorios
 
-**Frontend**: [Link](https://github.com/scotia-call)
+**Frontend**: [Link](FRONTEND)
 
-**Backend**: [Link](https://github.com/scotia-service)
+**Backend**: [Link](BACKEND)
 
 ## Herramientas de Gestión de Proyectos
 
