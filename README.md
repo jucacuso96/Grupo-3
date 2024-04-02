@@ -24,3 +24,10 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 **Reuniones**: [Enlace al archivo de reuniones en Google Drive](https://drive.google.com/drive/home/reuniones.txt)
 
 Por favor, consultar estos recursos para obtener información detallada sobre el proyecto SupportSync. Si necesita acceso adicional o tiene alguna pregunta, puede contactar al equipo responsable del proyecto.
+
+## 📧 Correos electrónicos: 
+[Juan Camilo Cubides](mailto:jc.cubides_2019-1@corhuila.edu.co),
+[Daniel Felipe Mendez](mailto:dfmendez-2020b@corhuila.edu.co),
+[Sebastian Camilo Rojas](mailto:sc.rojas_2019-1@corhuila.edu.co),
+[Jhonathan Arley Silva](mailto:ja.silva_2019-1@corhuila.edu.co),
+[Wilkyn Julian Vargas](mailto:wilkynvargas_20182@corhuila.edu.co)
