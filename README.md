@@ -9,19 +9,23 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 ## Repositorios
 
-**Frontend**: [scotia-call](https://github.com/scotia-call)
+**Frontend**: [Link](https://github.com/scotia-call)
 
-**Backend**: [scotia-service](https://github.com/scotia-service)
+**Backend**: [Link](https://github.com/scotia-service)
 
 ## Herramientas de Gestión de Proyectos
 
-**Trello**: [Tablero de Trello](https://trello.com/es/prueba)
+**Trello**: [Tablero de Trello](https://trello.com/invite/b/PBLbfe4v/ATTIc79c8be35b38b30205246dd8b7de3a63D0003029/grupo-3-sistemas-distribuidos)
 
 ## Documentación
 
-**Documentación General**: [Enlace al documento de Google Drive](https://drive.google.com/drive/home)
+**Resumen del Proyecto**: [Presentacion](https://docs.google.com/presentation/d/1zwr1lxPeXr_pMvCyTqIM3raQffrBVxhx/edit?usp=drive_link&ouid=102481422870035842729&rtpof=true&sd=true)
 
-**Reuniones**: [Enlace al archivo de reuniones en Google Drive](https://drive.google.com/drive/home/reuniones.txt)
+**Reuniones**: [Archivo de Actas](https://drive.google.com/drive/folders/1ON1H3F1pAeqeU8zI_M6W-aWtG2BhO43k?usp=drive_link)
+
+**Casos de Uso**: [Enlace de Drive](https://drive.google.com/drive/folders/1qe571DxvI6FFE_x0oukuXOp9RSYzc3lf?usp=drive_link)
+
+**Mockups, Pantallazos, etc.**: [Enlace de Drive](https://drive.google.com/drive/folders/13Hk4pBWSHU_Ou6JGosSgXazMv8qfD-mr?usp=drive_link)
 
 Por favor, consultar estos recursos para obtener información detallada sobre el proyecto SupportSync. Si necesita acceso adicional o tiene alguna pregunta, puede contactar al equipo responsable del proyecto.
 
