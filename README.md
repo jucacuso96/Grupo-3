@@ -21,6 +21,10 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 **Resumen del Proyecto**: [Presentacion](https://docs.google.com/presentation/d/1zwr1lxPeXr_pMvCyTqIM3raQffrBVxhx/edit?usp=drive_link&ouid=102481422870035842729&rtpof=true&sd=true)
 
+**Diagrama MER**: [Enlace de Drive](https://drive.google.com/file/d/1atrNMgCM7EgkWRCjF0Z0WeuIfNzDoO6y/view?usp=drive_link)
+
+**Diagramas de Secuencia**: [Enlace de Drive](https://drive.google.com/drive/folders/1RcdNYrMaTHTmjhSSZKpRtDuOVzDer5Vm?usp=drive_link)
+
 **Reuniones**: [Archivo de Actas](https://drive.google.com/drive/folders/1ON1H3F1pAeqeU8zI_M6W-aWtG2BhO43k?usp=drive_link)
 
 **Casos de Uso**: [Enlace de Drive](https://drive.google.com/drive/folders/1qe571DxvI6FFE_x0oukuXOp9RSYzc3lf?usp=drive_link)
