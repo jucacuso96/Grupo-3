@@ -1,0 +1,10 @@
+.box_nav{
+    background-color:#ef3945;
+}
+.box_contenedor_general{
+    width:80%;
+    /* background-color:#6d6d6e; */
+    margin:auto;
+    margin-top:100px;
+    padding:10px;
+}
