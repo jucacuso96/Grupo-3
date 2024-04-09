@@ -2,7 +2,7 @@
 ![Location](https://img.shields.io/badge/Location-Neiva,%20Huila,%20Colombia-blue)
 Proyecto de la clase de Sistemas Distribuidos
 
-![WhatsApp Image 2024-03-18 at 9 16 57 PM](https://github.com/jucacuso96/Grupo-3/assets/55547045/a890959a-f0f0-4932-a877-5335c618a1a4)
+![WhatsApp Image 2024-03-18 at 9 16 57 PM](https://github.com/jucacuso96/Grupo-3/assets/55547045/a890959a-f****0f0-4932-a877-5335c618a1a4)
 
 ## Descripción
 Este documento proporciona información general sobre el proyecto SupportSync, incluidos enlaces relevantes a la documentación, repositorios, herramientas de gestión de proyectos y reuniones.
@@ -25,7 +25,7 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 **Diagramas de Secuencia**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/diagrama%20de%20secuencia%20support%20sync.pdf)
 
-**Reuniones**: [Actas de Reuniones]([https://drive.google.com/drive/folders/1ON1H3F1pAeqeU8zI_M6W-aWtG2BhO43k?usp=drive_link](https://github.com/jucacuso96/Grupo-3/tree/main/Actas)
+**Reuniones**: [Actas de Reuniones](https://github.com/jucacuso96/Grupo-3/tree/main/Actas)
 
 **Casos de Uso**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Driagrama%20de%20Casos%20de%20uso.pdf)
 
