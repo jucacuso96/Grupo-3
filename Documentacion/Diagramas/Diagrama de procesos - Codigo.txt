@@ -1,0 +1,57 @@
+@startuml
+actor Cliente
+actor "Agente de Atención al Cliente" as Agente
+participant "Sistema de Atención al Cliente" as SAC
+database Base_de_Datos
+participant "Sistema Interno del Banco" as SIB
+actor "Coordinador" as Coordinador
+
+== Paso 1: Cliente solicita atención ==
+Cliente -> Agente: 1. Solicita atención
+Agente -> SAC: 2. Registra solicitud
+SAC -> Base_de_Datos: 3. Registrar solicitud
+activate Base_de_Datos
+
+== Paso 2: Sistema presenta opciones de consulta ==
+SAC -> Agente: 4. Presenta opciones de consulta
+
+alt Consulta de Productos
+    == Paso 3a: Cliente elige consulta de productos ==
+    Agente -> SAC: 5. Elige consulta de productos
+    SAC -> SIB: 6. Accede al sistema interno del banco
+    SIB --> SAC: 7. Muestra información de productos
+    SAC -> Agente: 8. Proporciona información de productos
+else Aclaraciones de Saldo
+    == Paso 3b: Cliente elige aclaraciones de saldo ==
+    Agente -> SAC: 5. Elige aclaraciones de saldo
+    SAC -> SIB: 6. Accede al sistema interno del banco
+    SIB --> SAC: 7. Muestra saldo y transacciones
+    SAC -> Agente: 8. Resuelve aclaraciones de saldo
+else Reclamos por Cobro
+    == Paso 3c: Cliente elige reclamos por cobro ==
+    Agente -> SAC: 5. Elige reclamos por cobro
+    SAC -> SIB: 6. Accede al sistema interno del banco
+    SIB --> SAC: 7. Muestra detalles de cobros
+    SAC -> Agente: 8. Resuelve reclamos por cobro
+else Acuerdos de Pago
+    == Paso 3d: Cliente elige acuerdos de pago ==
+    Agente -> SAC: 5. Elige acuerdos de pago
+    SAC -> SIB: 6. Accede al sistema interno del banco
+    SIB --> SAC: 7. Muestra opciones de pago
+    SAC -> Agente: 8. Propone acuerdos de pago
+end
+
+alt Consulta resuelta
+    == Paso 4a: Consulta resuelta ==
+    Agente -> SAC: 9. Confirma consulta resuelta
+    SAC -> Base_de_Datos: 10. Marcar como consulta resuelta
+    deactivate Base_de_Datos
+else Consulta no resuelta
+    == Paso 4b: Consulta no resuelta ==
+    Agente -> SAC: 9. Indica que consulta no fue resuelta
+    SAC -> Base_de_Datos: 10. Marcar como consulta no resuelta
+    Base_de_Datos -> Coordinador: 11. Escalar a coordinador por correo
+    deactivate Base_de_Datos
+end
+
+@enduml
