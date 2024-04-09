@@ -2,7 +2,7 @@
 ![Location](https://img.shields.io/badge/Location-Neiva,%20Huila,%20Colombia-blue)
 Proyecto de la clase de Sistemas Distribuidos
 
-![WhatsApp Image 2024-03-18 at 9 16 57 PM](https://github.com/jucacuso96/Grupo-3/assets/55547045/a890959a-f****0f0-4932-a877-5335c618a1a4)
+![Imagen](https://github.com/jucacuso96/Grupo-3/blob/main/Imagenes%20del%20Proyecto/IMAGENES%20PROYECTO/img_3.PNG)
 
 ## Descripción
 Este documento proporciona información general sobre el proyecto SupportSync, incluidos enlaces relevantes a la documentación, repositorios, herramientas de gestión de proyectos y reuniones.
