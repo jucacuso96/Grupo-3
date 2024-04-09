@@ -7,13 +7,11 @@ Proyecto de la clase de Sistemas Distribuidos
 ## Descripción
 Este documento proporciona información general sobre el proyecto SupportSync, incluidos enlaces relevantes a la documentación, repositorios, herramientas de gestión de proyectos y reuniones.
 
-**Enlace de tablero de trabajo en Trello**: [Tablero](https://trello.com/invite/b/PBLbfe4v/ATTIc79c8be35b38b30205246dd8b7de3a63D0003029/grupo-3-sistemas-distribuidos)
-
 ## Repositorios
 
-**Frontend**: [Link](FRONTEND)
+**Frontend**: [Link](https://github.com/jucacuso96/Grupo-3/tree/main/Frontend)
 
-**Backend**: [Link](BACKEND)
+**Backend**: [Link](https://github.com/jucacuso96/Grupo-3/tree/main/Backend)
 
 ## Herramientas de Gestión de Proyectos
 
@@ -21,17 +19,17 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 ## Documentación
 
-**Resumen del Proyecto**: [Presentacion](https://docs.google.com/presentation/d/1zwr1lxPeXr_pMvCyTqIM3raQffrBVxhx/edit?usp=drive_link&ouid=102481422870035842729&rtpof=true&sd=true)
+**Resumen del Proyecto**: [Presentacion](https://github.com/jucacuso96/Grupo-3/tree/main/Documentacion)
 
-**Diagrama MER**: [Enlace de Drive](https://drive.google.com/file/d/1atrNMgCM7EgkWRCjF0Z0WeuIfNzDoO6y/view?usp=drive_link)
+**Diagrama MER**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Diagrama%20MER%20support%20sync.pdf)
 
-**Diagramas de Secuencia**: [Enlace de Drive](https://drive.google.com/drive/folders/1RcdNYrMaTHTmjhSSZKpRtDuOVzDer5Vm?usp=drive_link)
+**Diagramas de Secuencia**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/diagrama%20de%20secuencia%20support%20sync.pdf)
 
-**Reuniones**: [Archivo de Actas](https://drive.google.com/drive/folders/1ON1H3F1pAeqeU8zI_M6W-aWtG2BhO43k?usp=drive_link)
+**Reuniones**: [Actas de Reuniones]([https://drive.google.com/drive/folders/1ON1H3F1pAeqeU8zI_M6W-aWtG2BhO43k?usp=drive_link](https://github.com/jucacuso96/Grupo-3/tree/main/Actas)
 
-**Casos de Uso**: [Enlace de Drive](https://drive.google.com/drive/folders/1qe571DxvI6FFE_x0oukuXOp9RSYzc3lf?usp=drive_link)
+**Casos de Uso**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Driagrama%20de%20Casos%20de%20uso.pdf)
 
-**Mockups, Pantallazos, etc.**: [Enlace de Drive](https://drive.google.com/drive/folders/13Hk4pBWSHU_Ou6JGosSgXazMv8qfD-mr?usp=drive_link)
+**Mockups, Pantallazos, etc.**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Mockup%20support%20sync.pdf)
 
 Por favor, consultar estos recursos para obtener información detallada sobre el proyecto SupportSync. Si necesita acceso adicional o tiene alguna pregunta, puede contactar al equipo responsable del proyecto.
 
