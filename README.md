@@ -7,6 +7,8 @@ Proyecto de la clase de Sistemas Distribuidos
 ## Descripción
 Este documento proporciona información general sobre el proyecto SupportSync, incluidos enlaces relevantes a la documentación, repositorios, herramientas de gestión de proyectos y reuniones.
 
+**Enlace de tablero de trabajo en Trello**: [Tablero](https://trello.com/invite/b/PBLbfe4v/ATTIc79c8be35b38b30205246dd8b7de3a63D0003029/grupo-3-sistemas-distribuidos)
+
 ## Repositorios
 
 **Frontend**: [Link](FRONTEND)
