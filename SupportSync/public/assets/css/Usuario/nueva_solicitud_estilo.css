@@ -1,0 +1,15 @@
+
+.titulo_uno{
+    text-align:center;
+    color:#d20;
+    text-align:left;
+    margin-bottom:20px;
+}
+.box_btn_solicitud{
+    margin-top:40px;
+}
+.box_btn_solicitud button{
+    width:150px;
+    font-size:20px;
+    /* background-color:#0019ff; */
+}
