@@ -31,6 +31,8 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 **Mockups, Pantallazos, etc.**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Mockup%20support%20sync.pdf)
 
+**Documentacion de APIs y Servicios**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/TERCER%20CORTE/Documentacion%20de%20APIs%20y%20Servicios.pdf)
+
 Por favor, consultar estos recursos para obtener información detallada sobre el proyecto SupportSync. Si necesita acceso adicional o tiene alguna pregunta, puede contactar al equipo responsable del proyecto.
 
 ## 📧 Correos electrónicos: 
