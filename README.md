@@ -35,7 +35,7 @@ Dentro de esta carpeta encontrara los Diagramas realizados, imagenes utilizadas 
   
   ## Reuniones
   **Actas de Reuniones**: [Actas de Reuniones](https://github.com/jucacuso96/Grupo-3/tree/main/Actas)
-
+  **Cronograma de Proyecto**: [Cronograma](https://docs.google.com/spreadsheets/d/1utK6UDF-usThkESO-K6pE21zxtyiW4QY/edit#gid=1466576512)
   ## Documentos
   **Diagrama Moscow**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Moscow.pdf)
   **Documentacion de APIs y Servicios**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Documentacion%20de%20APIs%20y%20Servicios.pdf)
