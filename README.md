@@ -2,16 +2,14 @@
 ![Location](https://img.shields.io/badge/Location-Neiva,%20Huila,%20Colombia-blue)
 Proyecto de la clase de Sistemas Distribuidos
 
-![Imagen](https://github.com/jucacuso96/Grupo-3/blob/main/Imagenes%20del%20Proyecto/IMAGENES%20PROYECTO/img_3.PNG)
+![Imagen](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Imagenes%20de%20Proyecto/img_3.PNG)
 
 ## Descripción
 Este documento proporciona información general sobre el proyecto SupportSync, incluidos enlaces relevantes a la documentación, repositorios, herramientas de gestión de proyectos y reuniones.
 
-## Repositorios
+## Proyecto
 
-**Frontend**: [Link](https://github.com/jucacuso96/Grupo-3/tree/main/Frontend)
-
-**Backend**: [Link](https://github.com/jucacuso96/Grupo-3/tree/main/Backend)
+**Version Actualizada del proyecto**: [Link](https://github.com/jucacuso96/Grupo-3/tree/main/SupportSync)
 
 ## Herramientas de Gestión de Proyectos
 
@@ -21,17 +19,30 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 **Resumen del Proyecto**: [Presentacion](https://github.com/jucacuso96/Grupo-3/tree/main/Documentacion)
 
-**Diagrama MER**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Diagrama%20MER%20support%20sync.pdf)
+Dentro de esta carpeta encontrara los Diagramas realizados, imagenes utilizadas para el proyecto y Documentacion de toda la elaboración del proyecto 
+  ## DIAGRAMAS
+  ** - Diagrama MER**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Diagrama%20MER%20support%20sync.pdf)
 
-**Diagramas de Secuencia**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/diagrama%20de%20secuencia%20support%20sync.pdf)
+  ** - Diagramas de Secuencia**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/diagrama%20de%20secuencia%20support%20sync.pdf)
 
-**Reuniones**: [Actas de Reuniones](https://github.com/jucacuso96/Grupo-3/tree/main/Actas)
+  ** - Casos de Uso**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Driagrama%20de%20Casos%20de%20uso.pdf)
 
-**Casos de Uso**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Driagrama%20de%20Casos%20de%20uso.pdf)
+  ** - Arquitectura**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Arquitectura.jpeg)
+  
+  ** - Mockup**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Mockup%20support%20sync.pdf)
+  
+  ## Reuniones
+  **Actas de Reuniones**: [Actas de Reuniones](https://github.com/jucacuso96/Grupo-3/tree/main/Actas)
 
-**Mockups, Pantallazos, etc.**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Mockup%20support%20sync.pdf)
-
-**Documentacion de APIs y Servicios**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/TERCER%20CORTE/Documentacion%20de%20APIs%20y%20Servicios.pdf)
+  ## Documentos
+  **Diagrama Moscow**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Moscow.pdf)
+  **Documentacion de APIs y Servicios**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Documentacion%20de%20APIs%20y%20Servicios.pdf)
+  
+  **Nomenclatura**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Nomenclatura.pdf)
+  
+  **Despliegue de Aplicativo**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Documentacion%20de%20Despliegue.pdf)
+  
+  **Manual de usuario**: [Enlace de Drive]()
 
 **Documentacion de Despliegue**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/TERCER%20CORTE/Documentacion%20de%20Despliegue.pdf)
 
