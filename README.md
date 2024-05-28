@@ -42,9 +42,9 @@ Dentro de esta carpeta encontrara los Diagramas realizados, imagenes utilizadas 
   
   **Nomenclatura**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Nomenclatura.pdf)
   
-  **Despliegue de Aplicativo**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Documentacion%20de%20Despliegue.pdf)
+  **Despliegue de Aplicativo**: [Enlace](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Documentacion%20de%20Despliegue.pdf)
   
-  **Manual de usuario**: [Enlace de Drive]()
+  **Manual de usuario**: [Enlace](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Manual%20de%20Usuario.pdf)
 
   **Documentacion de Despliegue**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/TERCER%20CORTE/Documentacion%20de%20Despliegue.pdf)
 ## Imagenes
