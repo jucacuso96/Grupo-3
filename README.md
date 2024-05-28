@@ -6,6 +6,7 @@ Proyecto de la clase de Sistemas Distribuidos
 
 ## Descripción
 Este documento proporciona información general sobre el proyecto SupportSync, incluidos enlaces relevantes a la documentación, repositorios, herramientas de gestión de proyectos y reuniones.
+[![Video de YouTube](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Supportsync.mp4)
 
 ## Proyecto
 
@@ -21,15 +22,15 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 Dentro de esta carpeta encontrara los Diagramas realizados, imagenes utilizadas para el proyecto y Documentacion de toda la elaboración del proyecto 
   ## DIAGRAMAS
-  ** - Diagrama MER**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Diagrama%20MER%20support%20sync.pdf)
+  **Diagrama MER**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Diagrama%20MER%20support%20sync.pdf)
 
-  ** - Diagramas de Secuencia**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/diagrama%20de%20secuencia%20support%20sync.pdf)
+  **Diagramas de Secuencia**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/diagrama%20de%20secuencia%20support%20sync.pdf)
 
-  ** - Casos de Uso**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Driagrama%20de%20Casos%20de%20uso.pdf)
+  **Casos de Uso**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Driagrama%20de%20Casos%20de%20uso.pdf)
 
-  ** - Arquitectura**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Arquitectura.jpeg)
+  **Arquitectura**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Arquitectura.jpeg)
   
-  ** - Mockup**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Mockup%20support%20sync.pdf)
+  **Mockup**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Mockup%20support%20sync.pdf)
   
   ## Reuniones
   **Actas de Reuniones**: [Actas de Reuniones](https://github.com/jucacuso96/Grupo-3/tree/main/Actas)
@@ -44,7 +45,12 @@ Dentro de esta carpeta encontrara los Diagramas realizados, imagenes utilizadas 
   
   **Manual de usuario**: [Enlace de Drive]()
 
-**Documentacion de Despliegue**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/TERCER%20CORTE/Documentacion%20de%20Despliegue.pdf)
+  **Documentacion de Despliegue**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/TERCER%20CORTE/Documentacion%20de%20Despliegue.pdf)
+## Imagenes
+  **Imagenes del Proyecto**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/tree/main/Documentacion/Imagenes%20de%20Proyecto)
+
+
+
 
 Por favor, consultar estos recursos para obtener información detallada sobre el proyecto SupportSync. Si necesita acceso adicional o tiene alguna pregunta, puede contactar al equipo responsable del proyecto.
 
