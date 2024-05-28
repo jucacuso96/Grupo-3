@@ -46,7 +46,7 @@ Dentro de esta carpeta encontrara los Diagramas realizados, imagenes utilizadas 
   
   **Manual de usuario**: [Enlace](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Manual%20de%20Usuario.pdf)
 
-  **Documentacion de Despliegue**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/TERCER%20CORTE/Documentacion%20de%20Despliegue.pdf)
+  **Documentacion de Despliegue**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Documentos/Documentacion%20de%20Despliegue.pdf)
 ## Imagenes
   **Imagenes del Proyecto**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/tree/main/Documentacion/Imagenes%20de%20Proyecto)
 
