@@ -33,6 +33,8 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 **Documentacion de APIs y Servicios**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/TERCER%20CORTE/Documentacion%20de%20APIs%20y%20Servicios.pdf)
 
+**Documentacion de Despliegue**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/TERCER%20CORTE/Documentacion%20de%20Despliegue.pdf)
+
 Por favor, consultar estos recursos para obtener información detallada sobre el proyecto SupportSync. Si necesita acceso adicional o tiene alguna pregunta, puede contactar al equipo responsable del proyecto.
 
 ## 📧 Correos electrónicos: 
