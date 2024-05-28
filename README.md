@@ -6,7 +6,7 @@ Proyecto de la clase de Sistemas Distribuidos
 
 ## Descripción
 Este documento proporciona información general sobre el proyecto SupportSync, incluidos enlaces relevantes a la documentación, repositorios, herramientas de gestión de proyectos y reuniones.
-[![Video de YouTube](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Supportsync.mp4)
+[![Video](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Supportsync.mp4)
 
 ## Proyecto
 
