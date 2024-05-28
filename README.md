@@ -17,19 +17,19 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 ## Documentación
 
-**Resumen del Proyecto**: [Presentacion](https://github.com/jucacuso96/Grupo-3/tree/main/Documentacion)
+**Resumen del Proyecto**: [Carpeta](https://github.com/jucacuso96/Grupo-3/tree/main/Documentacion)
 
 Dentro de esta carpeta encontrara los Diagramas realizados, imagenes utilizadas para el proyecto y Documentacion de toda la elaboración del proyecto 
   ## DIAGRAMAS
-  ** - Diagrama MER**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Diagrama%20MER%20support%20sync.pdf)
+  ** - Diagrama MER**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Diagrama%20MER%20support%20sync.pdf)
 
-  ** - Diagramas de Secuencia**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/diagrama%20de%20secuencia%20support%20sync.pdf)
+  ** - Diagramas de Secuencia**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/diagrama%20de%20secuencia%20support%20sync.pdf)
 
-  ** - Casos de Uso**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Driagrama%20de%20Casos%20de%20uso.pdf)
+  ** - Casos de Uso**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Driagrama%20de%20Casos%20de%20uso.pdf)
 
-  ** - Arquitectura**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Arquitectura.jpeg)
+  ** - Arquitectura**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Arquitectura.jpeg)
   
-  ** - Mockup**: [Enlace de Drive](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Mockup%20support%20sync.pdf)
+  ** - Mockup**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Mockup%20support%20sync.pdf)
   
   ## Reuniones
   **Actas de Reuniones**: [Actas de Reuniones](https://github.com/jucacuso96/Grupo-3/tree/main/Actas)
