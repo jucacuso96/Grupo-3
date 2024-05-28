@@ -17,7 +17,7 @@ Este documento proporciona información general sobre el proyecto SupportSync, i
 
 ## Documentación
 
-**Resumen del Proyecto**: [Carpeta](https://github.com/jucacuso96/Grupo-3/tree/main/Documentacion)
+**Resumen del Proyecto** : [Carpeta](https://github.com/jucacuso96/Grupo-3/tree/main/Documentacion)
 
 Dentro de esta carpeta encontrara los Diagramas realizados, imagenes utilizadas para el proyecto y Documentacion de toda la elaboración del proyecto 
   ## DIAGRAMAS
