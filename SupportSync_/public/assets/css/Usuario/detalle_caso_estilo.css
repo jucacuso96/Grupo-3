@@ -1,0 +1,88 @@
+/* Estilos base */
+
+body {
+    font-size: 14px;
+    color: #333; /* Color de texto oscuro */
+    background-image: url('assets/img/img_7.PNG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif; /* Fuente más moderna */
+}
+
+.titulo_uno p,
+.titulo_uno {
+    margin-bottom: 0px;
+    color: #ef3945; /* Color rojo Scotiabank */
+    font-weight: bold; /* Negrita para el título */
+}
+
+.contenedor_transparente {
+    background: rgba(255, 255, 255, 0.8); /* Fondo blanco con transparencia */
+    border: 2px solid #ef3945; /* Bordes rojos */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno */
+    margin: 20px auto; /* Margen externo */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+
+.accordion-item {
+    background: #fff;
+    padding: 0;
+    margin-bottom: 10px;
+    border: none;
+}
+
+.accordion-button {
+    background: #ffffff !important;
+    border-radius: 5px !important;
+    color: #333 !important;
+    border: 1px solid #bbbbbb;
+    padding: 8px 15px;
+    font-size: 14px;
+}
+
+.btn_consultar_cliente .btn {
+    width: 100%;
+}
+
+.alerta {
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.box_divido .fs-6 {
+    margin-bottom: 10px;
+    font-size: 14px !important;
+}
+
+.form-check-input {
+    cursor: pointer;
+}
+
+.box_divido input[type=radio]:checked {
+    border: 1px solid #ef3945 !important; /* Borde rojo */
+}
+
+.box_divido textarea {
+    margin-top: 10px;
+}
+
+/* Estilos responsive */
+
+@media screen and (max-width: 768px) {
+    /* Ajustes para pantallas más pequeñas */
+    .box_divido {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .box_divido .form-check {
+        margin-bottom: 10px;
+    }
+
+    .col-sm-4,
+    .col-sm-8 {
+        width: 100%;
+    }
+}
