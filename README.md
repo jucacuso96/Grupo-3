@@ -23,7 +23,7 @@ Puedes descargar el video que explica nuestro proyecto [aquí](https://github.co
 
 Dentro de esta carpeta encontrara los Diagramas realizados, imagenes utilizadas para el proyecto y Documentacion de toda la elaboración del proyecto 
   ## DIAGRAMAS
-  **Diagrama MER**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/Diagrama%20MER%20support%20sync.pdf)
+  **Diagrama MER**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Base%20de%20Datos/MER.PNG)
 
   **Diagramas de Secuencia**: [Abrir](https://github.com/jucacuso96/Grupo-3/blob/main/Documentacion/Diagramas/diagrama%20de%20secuencia%20support%20sync.pdf)
 
